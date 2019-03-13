@@ -18,6 +18,7 @@ class App extends Component {
               name
               active
               classification
+             ...Child_pokemon
             }
           }
         `}
